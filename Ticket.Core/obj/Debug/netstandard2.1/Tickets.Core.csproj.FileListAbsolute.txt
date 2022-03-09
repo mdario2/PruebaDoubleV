@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\Ticket\Ticket.Core\bin\Debug\netstandard2.1\Tickets.Core.deps.json
+C:\Users\ASUS\source\repos\Ticket\Ticket.Core\bin\Debug\netstandard2.1\Tickets.Core.dll
+C:\Users\ASUS\source\repos\Ticket\Ticket.Core\bin\Debug\netstandard2.1\Tickets.Core.pdb
+C:\Users\ASUS\source\repos\Ticket\Ticket.Core\obj\Debug\netstandard2.1\Tickets.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Ticket\Ticket.Core\obj\Debug\netstandard2.1\Tickets.Core.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Ticket\Ticket.Core\obj\Debug\netstandard2.1\Tickets.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Ticket\Ticket.Core\obj\Debug\netstandard2.1\Tickets.Core.dll
+C:\Users\ASUS\source\repos\Ticket\Ticket.Core\obj\Debug\netstandard2.1\Tickets.Core.pdb

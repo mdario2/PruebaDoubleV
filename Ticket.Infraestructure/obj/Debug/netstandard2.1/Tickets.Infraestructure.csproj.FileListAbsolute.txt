@@ -1,0 +1,4 @@
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\obj\Debug\netstandard2.1\Tickets.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\obj\Debug\netstandard2.1\Tickets.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\obj\Debug\netstandard2.1\Tickets.Infraestructure.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\obj\Debug\netstandard2.1\Tickets.Infraestructure.csproj.CoreCompileInputs.cache

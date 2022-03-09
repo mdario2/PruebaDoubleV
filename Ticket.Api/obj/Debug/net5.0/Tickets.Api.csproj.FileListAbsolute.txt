@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\Ticket\Ticket.Api\obj\Debug\net5.0\Tickets.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Ticket\Ticket.Api\obj\Debug\net5.0\Tickets.Api.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Ticket\Ticket.Api\obj\Debug\net5.0\Tickets.Api.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Ticket\Ticket.Api\obj\Debug\net5.0\Tickets.Api.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Ticket\Ticket.Api\obj\Debug\net5.0\Tickets.Api.MvcApplicationPartsAssemblyInfo.cache
