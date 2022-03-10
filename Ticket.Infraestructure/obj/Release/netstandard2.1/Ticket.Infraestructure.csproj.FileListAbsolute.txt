@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\bin\Release\netstandard2.1\Ticket.Infraestructure.deps.json
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\bin\Release\netstandard2.1\Ticket.Infraestructure.dll
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\bin\Release\netstandard2.1\Ticket.Infraestructure.pdb
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\bin\Release\netstandard2.1\Ticket.Core.dll
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\bin\Release\netstandard2.1\Ticket.Core.pdb
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\obj\Release\netstandard2.1\Ticket.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\obj\Release\netstandard2.1\Ticket.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\obj\Release\netstandard2.1\Ticket.Infraestructure.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\obj\Release\netstandard2.1\Ticket.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\obj\Release\netstandard2.1\Ticket.Infraestructure.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\obj\Release\netstandard2.1\Ticket.Infraestructure.dll
+C:\Users\ASUS\source\repos\Ticket\Ticket.Infraestructure\obj\Release\netstandard2.1\Ticket.Infraestructure.pdb
